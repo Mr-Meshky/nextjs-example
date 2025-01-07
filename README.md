@@ -8,7 +8,7 @@ This repository provides a ready-made template for Next.js projects to help you 
 - **Pre-configured ESLint**: Ensures code quality with pre-configured ESLint rules.
 - **Pre-commit & Pre-push**: Automatically run lint checks and build processes before committing or pushing changes.
 - **Tailwind and Import Sorter**: Automatic sorting for Tailwind CSS classes and JavaScript/TypeScript imports.
-  
+
 ## Getting Started
 
 To create a new project based on this template, run the following command:
@@ -30,17 +30,13 @@ cd my-nextjs-app
 Install the necessary dependencies:
 
 ```bash
-npm install
-# or
-yarn install
+pnpm install
 ```
 
 Start the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
+pnpm run dev
 ```
 
 Now open [http://localhost:3000](http://localhost:3000) to view the project in your browser.

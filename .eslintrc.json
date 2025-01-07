@@ -7,7 +7,6 @@
     "plugin:import/recommended"
   ],
   "plugins": ["prettier", "simple-import-sort"],
-
   "parserOptions": {
     "ecmaVersion": 2018,
     "sourceType": "module",
